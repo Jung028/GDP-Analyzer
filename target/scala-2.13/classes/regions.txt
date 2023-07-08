@@ -1,0 +1,27 @@
+Africa
+Eastern Africa
+Middle Africa
+Northern Africa
+Southern Africa
+Western Africa
+Americas
+Caribbean
+Central America
+Northern America
+South America
+Asia
+Central Asia
+Eastern Asia
+South-Eastern Asia
+Southern Asia
+Western Asia
+Europe
+Eastern Europe
+Northern Europe
+Southern Europe
+Western Europe
+Oceania
+Australasia
+Micronesia
+Polynesia
+Melanesia
