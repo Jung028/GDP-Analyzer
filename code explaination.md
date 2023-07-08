@@ -7,9 +7,10 @@ import scala.collection.JavaConverters._
 ```
 These lines import necessary libraries and classes required for reading CSV files and converting Java collections to Scala collections.
 
-'''
+```
 class GDPAnalyzerHelper(filePath: String) {
-'''
+```
+
 This line defines a class named `GDPAnalyzerHelper` that takes a `filePath` parameter representing the path to the CSV file.
 
 ```scala
