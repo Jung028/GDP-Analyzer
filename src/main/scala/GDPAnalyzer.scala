@@ -19,7 +19,7 @@ object GDPAnalyzer {
 
       maxGDP match {
         case Some(country) => println(s"The country with the highest GDP is: $country")
-        case None => println("No country found with the highest GDP.")
+        case None => println("No country found with the highest GDP..")
       }
 
 
