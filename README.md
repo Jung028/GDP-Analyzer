@@ -46,4 +46,4 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 This project is licensed under the MIT License.
 
-## Enjoy ;)
+## Enjoy ;)🇲🇾
